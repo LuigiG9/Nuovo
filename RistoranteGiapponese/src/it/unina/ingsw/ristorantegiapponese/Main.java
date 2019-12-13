@@ -39,6 +39,7 @@ public class Main {
 		gestore_ord.chiudiConto(conto);
 		
 		gestore_ord.visualizzaConto(conto);
+		System.out.println("FINE");
 	}
 
 }
