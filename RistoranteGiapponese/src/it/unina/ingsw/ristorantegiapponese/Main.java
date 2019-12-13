@@ -40,6 +40,7 @@ public class Main {
 		
 		gestore_ord.visualizzaConto(conto);
 		System.out.println("FINE");
+		System.out.println("FINE1");
 	}
 
 }
